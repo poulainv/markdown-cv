@@ -28,7 +28,7 @@ Available. OS Contributor. Learning Typescript & React.
 
 ### Management Background
 
-Managed team of 10 engineers
+Managed team of 8 engineers
 - • Weekly 1 to 1
 - • Set objectives & career paths
 - • Product & Tech roadmap
@@ -53,13 +53,13 @@ Then, I was in charge of the team (10 people) working on the SaaS product
 __Freelance__, Paris
 - Freelance fullstack developer
 
-For several years, I worked as freelance fullstack developer. I developped websites using Python & JS.
+I worked as freelance fullstack developer. I developped websites using Python & JS.
 
 `2013 - 6 months`
 __FastConnect__, Paris
 -  Data Engineer Intern
 
-Worked Big Data and Cloud projects (SAAS architecture)
+I worked on Big Data and Cloud (AWS) projects
 
 - • Crawling web to get and store data from different data sources
 - • Using Hadoop to process data with MapReduce on multiple nodes on AWS
@@ -78,16 +78,16 @@ Java JEE & AngularJS with rest API
 
 `2018-2013`
 __Master's Degree, Université de Technologies de Compiègne.__
-Speciality: SAAS product
-Extra: Philosophy, Technic, Cognition degree
+- Speciality: SAAS product
+- Extra: Philosophy, Technic, Cognition degree
 
 `2012`
 __The Institute of Technology, Linkoping University__
-Exchange Program, Computer Science
-Data Engineering, Design Pattern
+- Exchange Program, Computer Science
+- Data Engineering, Design Pattern
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 
