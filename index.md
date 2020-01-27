@@ -37,9 +37,9 @@ Managed team of 10 engineers
 `2013-2019`
 __Tinyclues__, Paris
 
-- Engineering Manager
-- Senior Software Engineer
-- Software Engineer
+- Engineering Manager: 2 years
+- Senior Software Engineer: 2 years
+- Software Engineer: 2 years
 
 Tinyclues is a predictive SaaS platform using self-designed machine-learning.
 
@@ -51,11 +51,11 @@ Then, I was in charge of the team (10 people) working on the SaaS product
 __Freelance__, Paris
 - Freelance fullstack developer
 
-For several years, I worked as freelance fullstack developer. I developped website using Python & JS.
+For several years, I worked as freelance fullstack developer. I developped websites using Python & JS.
 
 `2013 - 6 months`
-__Fast Connect__, Paris
-Data Engineer Intern
+__FastConnect__, Paris
+- - Data Engineer Intern
 
 Worked Big Data and Cloud projects (SAAS architecture)
 - Crawling web to get and store data from different data sources
@@ -86,4 +86,5 @@ Data Engineering, Design Pattern
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
 
