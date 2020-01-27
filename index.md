@@ -55,11 +55,12 @@ For several years, I worked as freelance fullstack developer. I developped websi
 
 `2013 - 6 months`
 __FastConnect__, Paris
-- - Data Engineer Intern
+-  Data Engineer Intern
 
 Worked Big Data and Cloud projects (SAAS architecture)
-- Crawling web to get and store data from different data sources
-- Using Hadoop to process data with MapReduce on multiple nodes on AWS
+
+- • Crawling web to get and store data from different data sources
+- • Using Hadoop to process data with MapReduce on multiple nodes on AWS
 
 
 
