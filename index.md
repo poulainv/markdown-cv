@@ -3,7 +3,9 @@ layout: cv
 title: Vincent Poulain's CV
 ---
 # Vincent Poulain
-Software Engineer, Engineering Manager
+Software Engineer (7 yrs), Engineering Manager (2 yrs)
+
+Love delivering high quality software.
 
 <div id="webaddress">
 <a href="vincent.poulain2@gmail.com">vincent.poulain2@gmail.com</a>
@@ -14,32 +16,32 @@ Software Engineer, Engineering Manager
 
 ## Currently
 
-OS Contributor. Learning Typescript & React. 
+Available. OS Contributor. Learning Typescript & React. 
 
 ### Tech Background
 
-- Python: 5 years
-- AWS & Infrastructure: 5 years
-- Scala: 2 years
-- Typescript, React, Graphql Tools: ~1 year
+- • Python: 5 years
+- • AWS & Infrastructure: 5 years
+- • Scala: 2 years
+- • Typescript, React, Graphql Tools: ~1 year
 
 
 ### Management Background
 
 Managed team of 10 engineers
-- Weekly 1 to 1
-- Set objectives & career paths
-- Product & Tech roadmap
-- Manage legacy code    
+- • Weekly 1 to 1
+- • Set objectives & career paths
+- • Product & Tech roadmap
+- • Manage legacy code
 
 ## Occupation
 
 `2013-2019`
 __Tinyclues__, Paris
 
-- Engineering Manager: 2 years
-- Senior Software Engineer: 2 years
-- Software Engineer: 2 years
+- • Engineering Manager: 2 years
+- • Senior Software Engineer: 2 years
+- • Software Engineer: 2 years
 
 Tinyclues is a predictive SaaS platform using self-designed machine-learning.
 
