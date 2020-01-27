@@ -1,28 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vincent Poulain's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vincent Poulain
+Software Engineer, Engineering Manager
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vincent.poulain2@gmail.com">vincent.poulain2@gmail.com</a>
+| <a href="https://github.com/poulainv">github.com/poulainv</a>
+| <a href="https://www.linkedin.com/in/vincentpoulain/">linkedin.com/in/vincentpoulain/</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+OS Contributor. Learning Typescript & React. 
 
-### Specialized in
+### Tech Background
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Python: 5 years
+- AWS & Infrastructure: 5 years
+- Scala: 2 years
+- Typescript, React, Graphql Tools: ~1 year
 
 
-### Research interests
+### Management Background
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Managed team of 10 engineers
+- Weekly 1 to 1
+- Set objectives & career paths
+- Product & Tech roadmap
+- Manage legacy code    
+
+## Occupation
+
+`2013-2019`
+__Tinyclues__, Paris
+
+- Engineering Manager
+- Senior Software Engineer
+- Software Engineer
+
+Tinyclues is a predictive SaaS platform using self-designed machine-learning.
+I was part of the core-developer team, as a fullstack engineer. I worked on every aspects of the solution to ensure reliability, stability and good predictive performance.
+Then, I was in charge of the team working on the SAAS product
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 ## Education
@@ -40,47 +65,6 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
