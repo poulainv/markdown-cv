@@ -40,12 +40,13 @@ Managed team of 8 engineers
 `2013-2019`
 __Tinyclues__, Paris
 
+6 years exp. building a data product based, in start-up that scaled from 2 clients to 100+ (with some biggest european e-commerce)
+
 - • Engineering Manager: 2 years
 - • Senior Software Engineer: 2 years
 - • Software Engineer: 2 years
 
 Tinyclues is a predictive SaaS platform using self-designed machine-learning.
-
 I was part of the core-developer team, as a data engineer. I worked on every aspects of the solution to ensure reliability, stability and good predictive performance. 
 Redshift, EMR (Spark), event sourcing, Airflow, Terraform are some of the tools & concepts I used to work with.
 
