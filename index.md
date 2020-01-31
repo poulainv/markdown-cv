@@ -20,9 +20,10 @@ Available. OS Contributor. Learning Typescript & React.
 
 ### Tech Background
 
-- • Python: 5 years
+- • Python: 6 years
 - • AWS & Infrastructure: 5 years
-- • Scala: 2 years
+- • Scala & Spark: 2 years
+- • Data Architecture : 4 years
 - • Typescript, React, Graphql Tools: ~1 year
 
 
@@ -45,7 +46,8 @@ __Tinyclues__, Paris
 
 Tinyclues is a predictive SaaS platform using self-designed machine-learning.
 
-I was part of the core-developer team, as a data engineer. I worked on every aspects of the solution to ensure reliability, stability and good predictive performance.
+I was part of the core-developer team, as a data engineer. I worked on every aspects of the solution to ensure reliability, stability and good predictive performance. 
+Redshift, EMR (Spark), event sourcing, Airflow, Terraform are some of tools & concepts I used to work with.
 
 Then, I was in charge of the team (10 people) working on the SaaS product
 
