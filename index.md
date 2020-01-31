@@ -47,7 +47,7 @@ __Tinyclues__, Paris
 Tinyclues is a predictive SaaS platform using self-designed machine-learning.
 
 I was part of the core-developer team, as a data engineer. I worked on every aspects of the solution to ensure reliability, stability and good predictive performance. 
-Redshift, EMR (Spark), event sourcing, Airflow, Terraform are some of tools & concepts I used to work with.
+Redshift, EMR (Spark), event sourcing, Airflow, Terraform are some of the tools & concepts I used to work with.
 
 Then, I was in charge of the team (10 people) working on the SaaS product
 
