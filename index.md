@@ -42,6 +42,7 @@ __Tinyclues__, Paris
 
 6 years exp. building a data product based, in start-up that scaled from 2 clients to 100+ (with some biggest european e-commerce)
 
+- 
 - • Engineering Manager: 2 years
 - • Senior Software Engineer: 2 years
 - • Software Engineer: 2 years
@@ -56,24 +57,17 @@ Then, I was in charge of the team (10 people) working on the SaaS product
 __Freelance__, Paris
 - Freelance fullstack developer
 
-I worked as freelance fullstack developer. I developped websites using Python & JS.
+I developed websites using Python & JS.
 
 `2013 - 6 months`
 __FastConnect__, Paris
 -  Data Engineer Intern
 
-I worked on Big Data and Cloud (AWS) projects
-
-- • Crawling web to get and store data from different data sources
-- • Using Hadoop to process data with MapReduce on multiple nodes on AWS
-
-
+I developed POC using AWS & Haddop
 
 `2011 - 6 months`
-__Fast Connect__, Paris
+__Airbus__, Paris
 Software Engineer Intern
-
-Specification, development and tests of a Java Web application for aeronautic certification with R&D team (dashboarding & datamining).
 
 Java JEE & AngularJS with rest API
 
