@@ -59,6 +59,12 @@ __Freelance__, Paris
 
 I developed websites using Python & JS.
 
+`2012-2013`
+__Alveolus__, Paris
+- Founder & Tech lead
+
+alveolus is a project to identify and promote collaborative initiatives.
+
 `2013 - 6 months`
 __FastConnect__, Paris
 -  Data Engineer Intern
