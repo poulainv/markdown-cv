@@ -63,19 +63,19 @@ I developed websites using Python & JS.
 __Alveolus__, Paris
 - Founder & Tech lead
 
-alveolus is a project to identify and promote collaborative initiatives.
+Alveolus is a project to identify and promote collaborative initiatives.
 
 `2013 - 6 months`
 __FastConnect__, Paris
 -  Data Engineer Intern
 
-I developed POC using AWS & Hadoop
+I developed POC using AWS / Hadoop
 
 `2011 - 6 months`
 __Airbus__, Paris
-Software Engineer Intern
+- Software Engineer Intern
 
-Java JEE & AngularJS with rest API
+Java JEE / AngularJS / Restful API
 
 ## Education
 
