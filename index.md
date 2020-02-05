@@ -5,7 +5,7 @@ title: Vincent Poulain's CV
 # Vincent Poulain
 Software Engineer (7 yrs), Engineering Manager (2 yrs)
 
-Love delivering high quality software. Team orie
+Love delivering high quality software. Delight in sharing knowledge & solving problems with team
 
 <div id="webaddress">
 <a href="vincent.poulain2@gmail.com">vincent.poulain2@gmail.com</a>
@@ -32,7 +32,7 @@ Available. Learning Typescript & React. Start contributing to OS
 Managed team of 8 engineers
 - • Weekly 1 to 1
 - • Set objectives & career paths
-- • Product & Tech roadmap
+- • Product & Tech roadmaps
 - • Manage legacy code
 
 ## Occupation
