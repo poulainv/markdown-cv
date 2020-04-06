@@ -24,7 +24,7 @@ Available. Learning Typescript & React. Start contributing to OS
 - • AWS & Infrastructure: 5 years
 - • Scala & Spark: 2 years
 - • Data Architecture : 4 years
-- • Typescript, React, GraphQL: 1 year
+- • Typescript, React, GraphQL: 2 years
 
 
 ### Management Background
