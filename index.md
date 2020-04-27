@@ -51,12 +51,12 @@ Tinyclues is a predictive SaaS platform using self-designed machine-learning.
 As a Senior Software Engineer, I worked with Python and Scala (Play & Spark) on every aspects of the solution to ensure reliability, stability and good predictive performance. 
 
 I built heavy and distributed data jobs using Scala Spark. It's been deployed on EMR (AWS) over a distributed event architecture based on top of Kinesis and RabbitMQ.
-I was also involved in the design and the development of different Scala Play services.
+I was also involved in the design and the development of different Scala Play API services.
 
 Then, I was in charge of the team (8 people) working on the product. I worked closely with PM & Tech lead to define OKR, then roadmaps
 
 
-Redshift, EMR (Spark), event sourcing, Airflow, Terraform are some of the tools & concepts I used to work with.
+Tools & concepts I used to work with: Scala, Distributed Computing, EMR, event sourcing, Airflow, Terraform, Redshift
 
 `2011-2016`
 __Freelance__, Paris
